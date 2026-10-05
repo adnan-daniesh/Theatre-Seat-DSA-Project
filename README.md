@@ -2,7 +2,7 @@
 
 A web app that books theatre seats using **linked lists**.
 
-**Live demo:** _paste your GitHub Pages link here_
+https://adnan-daniesh.github.io/Theatre-Seat-DSA-Project/
 
 ## DSA concept: Linked list
 
